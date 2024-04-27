@@ -1,6 +1,6 @@
 {
   "name": "fatify-service-template",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "一套基于fastify的template模板。",
   "main": "index.js",
   "scripts": {
